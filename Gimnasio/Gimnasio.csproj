@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{05CBE540-BEFD-4EF8-879C-3A5F43003C03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gimnasio</RootNamespace>
+    <AssemblyName>Gimnasio</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>socios.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>.\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>.\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="RegEX">
+      <HintPath>.\RegEX.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2012.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2012.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2012.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuracion\clsConfiguracion.cs" />
+    <Compile Include="Configuracion\frmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\frmConfiguracion.Designer.cs">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsGimnasio.cs">
+      <DependentUpon>dsGimnasio.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dsGimnasio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsGimnasio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas\clsDetalleEntrada.cs" />
+    <Compile Include="Entradas\clsEntrada.cs" />
+    <Compile Include="Entradas\frmEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entradas\frmEntrada.Designer.cs">
+      <DependentUpon>frmEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas\frmEntradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entradas\frmEntradas.Designer.cs">
+      <DependentUpon>frmEntradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas\frmViewEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entradas\frmViewEntrada.Designer.cs">
+      <DependentUpon>frmViewEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Membresias\clsMembresia.cs" />
+    <Compile Include="Membresias\frmMembresia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Membresias\frmMembresia.Designer.cs">
+      <DependentUpon>frmMembresia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Membresias\frmMembresias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Membresias\frmMembresias.Designer.cs">
+      <DependentUpon>frmMembresias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\clsProducto.cs" />
+    <Compile Include="Productos\frmProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\frmProducto.Designer.cs">
+      <DependentUpon>frmProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\frmProductos.Designer.cs">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro\frmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro\frmRegistro.Designer.cs">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro\clsRegistro.cs" />
+    <Compile Include="Reportes\frmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmReportes.Designer.cs">
+      <DependentUpon>frmReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salidas\clsDetalleSalida.cs" />
+    <Compile Include="Salidas\clsSalida.cs" />
+    <Compile Include="Salidas\frmSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salidas\frmSalida.Designer.cs">
+      <DependentUpon>frmSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salidas\frmSalidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salidas\frmSalidas.Designer.cs">
+      <DependentUpon>frmSalidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salidas\frmViewSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salidas\frmViewSalida.Designer.cs">
+      <DependentUpon>frmViewSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sesion\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sesion\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\clsSocio.cs" />
+    <Compile Include="Socios\clsSocioMembresia.cs" />
+    <Compile Include="Socios\FrmMembresia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\FrmMembresia.Designer.cs">
+      <DependentUpon>FrmMembresia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\frmFoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\frmFoto.Designer.cs">
+      <DependentUpon>frmFoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\frmSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\frmSocio.Designer.cs">
+      <DependentUpon>frmSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Socios\frmSocios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socios\frmSocios.Designer.cs">
+      <DependentUpon>frmSocios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\clsUsuario.cs" />
+    <Compile Include="Usuarios\frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\frmUsuarios.Designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilidades\clsGrafico.cs" />
+    <Compile Include="Utilidades\clsModulo.cs" />
+    <Compile Include="Utilidades\clsUsuario.cs" />
+    <Compile Include="Utilidades\frmPadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilidades\frmPadre.Designer.cs">
+      <DependentUpon>frmPadre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilidades\OperacionesFormulario.cs" />
+    <EmbeddedResource Include="Configuracion\frmConfiguracion.resx">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entradas\frmEntrada.resx">
+      <DependentUpon>frmEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entradas\frmEntradas.resx">
+      <DependentUpon>frmEntradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entradas\frmViewEntrada.resx">
+      <DependentUpon>frmViewEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membresias\frmMembresia.resx">
+      <DependentUpon>frmMembresia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Membresias\frmMembresias.resx">
+      <DependentUpon>frmMembresias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\frmProducto.resx">
+      <DependentUpon>frmProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\frmProductos.resx">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro\frmRegistro.resx">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmReportes.resx">
+      <DependentUpon>frmReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salidas\frmSalida.resx">
+      <DependentUpon>frmSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salidas\frmSalidas.resx">
+      <DependentUpon>frmSalidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salidas\frmViewSalida.resx">
+      <DependentUpon>frmViewSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sesion\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\frmFoto.resx">
+      <DependentUpon>frmFoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\FrmMembresia.resx">
+      <DependentUpon>FrmMembresia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\frmSocio.resx">
+      <DependentUpon>frmSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socios\frmSocios.resx">
+      <DependentUpon>frmSocios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilidades\frmPadre.resx">
+      <DependentUpon>frmPadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsGimnasio.xsc">
+      <DependentUpon>dsGimnasio.xsd</DependentUpon>
+    </None>
+    <None Include="dsGimnasio.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsGimnasio.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsGimnasio.xss">
+      <DependentUpon>dsGimnasio.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="recursos\icons\configuracion.png" />
+    <Content Include="recursos\icons\entrada.png" />
+    <Content Include="recursos\icons\membresias.png" />
+    <Content Include="recursos\icons\productos.png" />
+    <Content Include="recursos\icons\productos2.png" />
+    <Content Include="recursos\icons\salida.png" />
+    <Content Include="recursos\icons\socios.png" />
+    <Content Include="socios.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="recursos\icons\usuario.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gimnasio", "Gimnasio\Gimnasio.csproj", "{05CBE540-BEFD-4EF8-879C-3A5F43003C03}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gym", "Gym\Gym.vdproj", "{2D6FD3D6-094B-4898-8712-57648BB0032A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Debug|x86.ActiveCfg = Debug|x86
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Debug|x86.Build.0 = Debug|x86
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Release|x86.ActiveCfg = Release|x86
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Release|x86.Build.0 = Release|x86
+		{2D6FD3D6-094B-4898-8712-57648BB0032A}.Debug|x86.ActiveCfg = Debug
+		{2D6FD3D6-094B-4898-8712-57648BB0032A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

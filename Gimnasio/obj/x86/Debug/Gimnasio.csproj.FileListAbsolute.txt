@@ -1,0 +1,137 @@
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.pdb
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Properties.Resources.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.csproj.GenerateResource.Cache
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.exe
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.g.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.FrmMain.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuarios.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuario.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe.config
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresias.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresia.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\RegEX.dll
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProducto.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProductos.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocio.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocios.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmFoto.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.FrmMembresia.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe.config
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.exe
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.g.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.FrmMain.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresia.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresias.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProducto.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProductos.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Properties.Resources.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmFoto.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.FrmMembresia.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocio.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocios.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuario.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuarios.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.pdb
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\mysql.data.dll
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\RegEX.dll
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.dll
+C:\Proyectos\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Registro.frmRegistro.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.DirectShow.dll
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.dll
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Registro.frmRegistro.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Reportes.frmReportes.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Sesion.frmLogin.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Configuracion.frmConfiguracion.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntradas.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntrada.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmViewEntrada.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalida.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalidas.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmViewSalida.resources
+D:\Programas\c#\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\MySqlBackup.dll
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe.config
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.exe
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.pdb
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.dll
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\MySql.Data.dll
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\MySqlBackup.dll
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\RegEX.dll
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.g.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Configuracion.frmConfiguracion.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntrada.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntradas.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmViewEntrada.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.FrmMain.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresia.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresias.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProducto.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProductos.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Properties.Resources.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Registro.frmRegistro.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Reportes.frmReportes.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalida.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalidas.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmViewSalida.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Sesion.frmLogin.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmFoto.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.FrmMembresia.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocio.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocios.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuario.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuarios.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bioxor\Documents\Programas\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bioxor\Documents\Programas\Freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe.config
+C:\Users\Bioxor\Documents\Programas\Freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.exe
+C:\Users\Bioxor\Documents\Programas\Freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe.config
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.exe
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\Gimnasio.pdb
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\AForge.Video.dll
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\MySql.Data.dll
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\MySqlBackup.dll
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\bin\Debug\RegEX.dll
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.csprojResolveAssemblyReference.cache
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.g.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Configuracion.frmConfiguracion.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntrada.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntradas.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmViewEntrada.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.FrmMain.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresia.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresias.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProducto.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProductos.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Properties.Resources.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Registro.frmRegistro.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Reportes.frmReportes.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalida.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalidas.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmViewSalida.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Sesion.frmLogin.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmFoto.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.FrmMembresia.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocio.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocios.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuario.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuarios.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
+C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.csproj.GenerateResource.Cache
