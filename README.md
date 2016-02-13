@@ -1,6 +1,8 @@
 # Gym-Hdeleon-.Net
 Código fuente de para software de gimnasios.
 
+Licensia Apache 2.0, leer el archivo License.txt anexo al repositorio.
+
 Para ver su funcionalidad clic en el enlace: https://www.youtube.com/watch?v=6BKx5J3zRCQ
 
 El código fuente esta hecho para correr con 4.0 framework de .Net
