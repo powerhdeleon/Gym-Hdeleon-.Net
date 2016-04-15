@@ -135,3 +135,39 @@ C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasi
 C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuarios.resources
 C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
 C:\Users\Power\Google Drive\sistemas\freelance\Gimnasio Stell Gym\codigo\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.csproj.GenerateResource.Cache
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\Gimnasio.exe.config
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.exe
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\Gimnasio.exe
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\Gimnasio.pdb
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\AForge.Video.dll
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\MySql.Data.dll
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\MySqlBackup.dll
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\bin\Debug\RegEX.dll
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.csprojResolveAssemblyReference.cache
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.g.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Configuracion.frmConfiguracion.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntrada.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmEntradas.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Entradas.frmViewEntrada.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.FrmMain.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresia.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Membresias.frmMembresias.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProducto.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Productos.frmProductos.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Properties.Resources.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Registro.frmRegistro.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Reportes.frmReportes.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalida.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmSalidas.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Salidas.frmViewSalida.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Sesion.frmLogin.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmFoto.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Socios.FrmMembresia.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocio.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Socios.frmSocios.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuario.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Usuarios.frmUsuarios.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.csproj.GenerateResource.Cache
