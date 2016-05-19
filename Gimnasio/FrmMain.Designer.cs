@@ -99,7 +99,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 31);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1370, 98);
+            this.panel1.Size = new System.Drawing.Size(1362, 98);
             this.panel1.TabIndex = 1;
             // 
             // label11
@@ -375,7 +375,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
-            this.menuStrip1.Size = new System.Drawing.Size(1370, 31);
+            this.menuStrip1.Size = new System.Drawing.Size(1362, 31);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -386,7 +386,7 @@
             this.cerrarSesiónToolStripMenuItem});
             this.salirToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(77, 25);
             this.salirToolStripMenuItem.Text = "Usuarios";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
@@ -417,7 +417,7 @@
             // creadoPorHéctorDeLeónToolStripMenuItem
             // 
             this.creadoPorHéctorDeLeónToolStripMenuItem.Name = "creadoPorHéctorDeLeónToolStripMenuItem";
-            this.creadoPorHéctorDeLeónToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.creadoPorHéctorDeLeónToolStripMenuItem.Size = new System.Drawing.Size(267, 26);
             this.creadoPorHéctorDeLeónToolStripMenuItem.Text = "Creado por Héctor de León";
             this.creadoPorHéctorDeLeónToolStripMenuItem.Click += new System.EventHandler(this.creadoPorHéctorDeLeónToolStripMenuItem_Click);
             // 
@@ -426,7 +426,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1370, 700);
+            this.ClientSize = new System.Drawing.Size(1362, 700);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -438,7 +438,7 @@
             this.MinimumSize = new System.Drawing.Size(1024, 720);
             this.Name = "FrmMain";
             this.ShowIcon = false;
-            this.Text = "Gimnasio";
+            this.Text = "Gimnasio Hdeleon.net";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FrmMain_KeyDown);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.FrmMain_KeyPress);

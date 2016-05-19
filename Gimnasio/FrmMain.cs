@@ -326,7 +326,9 @@ namespace Gimnasio
 
         private void creadoPorHéctorDeLeónToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Creado por Héctor de León: www.hdeleon.net");
+            frmCreador oFrm = new frmCreador();
+            oFrm.ShowDialog();
+                
         }
 
         private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)

@@ -124,6 +124,12 @@
     <Compile Include="Entradas\frmViewEntrada.Designer.cs">
       <DependentUpon>frmViewEntrada.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCreador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreador.Designer.cs">
+      <DependentUpon>frmCreador.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -257,6 +263,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Entradas\frmViewEntrada.resx">
       <DependentUpon>frmViewEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreador.resx">
+      <DependentUpon>frmCreador.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
