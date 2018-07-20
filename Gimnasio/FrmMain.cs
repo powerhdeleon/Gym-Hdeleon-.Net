@@ -22,6 +22,18 @@ namespace Gimnasio
         {
             this.WindowState = FormWindowState.Maximized;
 
+            //mensaje inicio, puedes quitar esta linea, pero este software lo hizo Héctor de León Guevara | www.hdeleon.net
+            try
+            {
+                if (!System.IO.File.Exists(AppDomain.CurrentDomain.BaseDirectory+"/hdeleon.txt"))
+                {
+                    FrmMensajeInicial frmMensaje = new FrmMensajeInicial();
+                    frmMensaje.ShowDialog();
+
+                    System.IO.File.Create(AppDomain.CurrentDomain.BaseDirectory+"/hdeleon.txt");
+                }
+            }
+            catch { }
             
             sinSesion();
             

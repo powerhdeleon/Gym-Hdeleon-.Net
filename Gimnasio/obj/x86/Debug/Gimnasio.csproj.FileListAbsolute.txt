@@ -172,3 +172,4 @@ C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Usua
 C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.Utilidades.frmPadre.resources
 C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.csproj.GenerateResource.Cache
 C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.frmCreador.resources
+C:\Users\Power\Documents\GitHub\Gym-Hdeleon\Gimnasio\obj\x86\Debug\Gimnasio.FrmMensajeInicial.resources

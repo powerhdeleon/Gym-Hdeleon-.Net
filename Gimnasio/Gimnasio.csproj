@@ -83,9 +83,6 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Telerik.WinControls, Version=2012.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
-    <Reference Include="Telerik.WinControls.UI, Version=2012.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
-    <Reference Include="TelerikCommon, Version=2012.1.321.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Configuracion\clsConfiguracion.cs" />
@@ -135,6 +132,12 @@
     </Compile>
     <Compile Include="FrmMain.Designer.cs">
       <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMensajeInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMensajeInicial.Designer.cs">
+      <DependentUpon>FrmMensajeInicial.cs</DependentUpon>
     </Compile>
     <Compile Include="Membresias\clsMembresia.cs" />
     <Compile Include="Membresias\frmMembresia.cs">
@@ -269,6 +272,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMensajeInicial.resx">
+      <DependentUpon>FrmMensajeInicial.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Membresias\frmMembresia.resx">
       <DependentUpon>frmMembresia.cs</DependentUpon>
